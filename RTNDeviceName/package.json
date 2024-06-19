@@ -14,7 +14,7 @@
     "android"
   ],
   "author": "Anisha Malde <anishapm@amazon.com> (https://github.com/anishamalde)",
-  "license": "MIT",
+  "license": "MIT-0",
   "devDependencies": {},
   "peerDependencies": {
     "react": "*",
