@@ -1,0 +1,31 @@
+{
+  "name": "rtn-device",
+  "version": "0.0.1",
+  "description": "Get device name with Turbo Native Modules",
+  "react-native": "js/index",
+  "source": "js/index",
+  "files": [
+    "js",
+    "android",
+    "!android/build"
+  ],
+  "keywords": [
+    "react-native",
+    "android"
+  ],
+  "author": "Anisha Malde <anishapm@amazon.com> (https://github.com/anishamalde)",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "codegenConfig": {
+    "name": "RTNDeviceSpec",
+    "type": "modules",
+    "jsSrcsDir": "js",
+    "android": {
+      "javaPackageName": "com.rtndevice"
+    }
+  }
+}
