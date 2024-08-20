@@ -1,5 +1,5 @@
 {
-  "name": "DeviceName",
+  "name": "@amzn/get-device-name",
   "version": "0.0.1",
   "private": true,
   "scripts": {
